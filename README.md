@@ -68,3 +68,12 @@ Für Lehrerlogin bei lokalem Test eine `.env` (nicht committen) mit `TEACHER_COD
 - Gelb umrandete und ausdrücklich markierte Beispiele (keine Musterlösungen im Eingabefeld)
 - Blaue Arbeitsaufträge, grüne Begriffserklärungen und nummerierte Schreibszenen
 - Funktionen für Anmeldung, Speicherung, Lehrerbereich und PDF bleiben erhalten
+
+
+## Version 1.2: Vorlage für Gemini Storybook
+
+Der PDF-Druck enthält jetzt die selbst geschriebene Geschichte mit **sechs nummerierten Szenenüberschriften**. Die Gem-Anleitung und der KI-Auftrag sind bewusst **nicht Teil des PDF**, sondern stehen nach dem Export im Kurs. Der Prompt kann dort kopiert werden.
+
+**Altersgrenze:** Gemini Storybook ist laut aktueller offizieller Google-Hilfe nicht für unter 18-Jährige verfügbar. Der beschriebene Anschlussprozess ist daher als *von der Lehrkraft durchgeführte spätere Nutzung* erklärt; kein Schüler soll Altersregeln umgehen. Klären Sie vor dem Hochladen Datenschutz und Berechtigungen.
+
+Google-Hilfe: https://support.google.com/gemini/answer/16434396?hl=de
