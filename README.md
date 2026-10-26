@@ -60,3 +60,11 @@ Für Lehrerlogin bei lokalem Test eine `.env` (nicht committen) mit `TEACHER_COD
 
 - https://docs.netlify.com/build/data-and-storage/netlify-blobs/
 - https://docs.netlify.com/build/functions/environment-variables/
+
+
+## Version 1.1 – verständlicher und anschaulicher
+
+- Kürzere Sätze und einfachere Erklärungen für Klasse 8
+- Gelb umrandete und ausdrücklich markierte Beispiele (keine Musterlösungen im Eingabefeld)
+- Blaue Arbeitsaufträge, grüne Begriffserklärungen und nummerierte Schreibszenen
+- Funktionen für Anmeldung, Speicherung, Lehrerbereich und PDF bleiben erhalten
