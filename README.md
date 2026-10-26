@@ -77,3 +77,10 @@ Der PDF-Druck enthält jetzt die selbst geschriebene Geschichte mit **sechs numm
 **Altersgrenze:** Gemini Storybook ist laut aktueller offizieller Google-Hilfe nicht für unter 18-Jährige verfügbar. Der beschriebene Anschlussprozess ist daher als *von der Lehrkraft durchgeführte spätere Nutzung* erklärt; kein Schüler soll Altersregeln umgehen. Klären Sie vor dem Hochladen Datenschutz und Berechtigungen.
 
 Google-Hilfe: https://support.google.com/gemini/answer/16434396?hl=de
+
+
+## Version 1.3 – vollständige Dokumentation des Schreibwegs
+
+Der PDF-Druck enthält **Teil 1 – Die fertige Geschichte** mit den sechs ausformulierten Szenen sowie **Teil 2 – So ist meine Geschichte entstanden** mit sämtlichen inhaltlichen Antworten aus den Stationen: Figur, Ort, Gegenstand, Eigenschaften, Ziel, Konflikt, Risiko und Planung der drei Akte. Titel, Autorenname/Pseudonym und Klasse werden ebenfalls angezeigt, soweit eingegeben. Nicht ausgefüllte Felder sind als „Keine Angabe“ sichtbar. Selbstkontroll-Häkchen, Navigation und Beispieltexte werden nicht mit ausgegeben.
+
+Für Google Gemini Storybook gilt: **Teil 1 ist verbindlich**; Teil 2 ist nur ergänzende Hintergrundinformation. Das ist auch im PDF und im kopierbaren Prompt vermerkt. Die Ausgabe erfolgt weiterhin über „Drucken / Als PDF speichern“ des Endgeräts.
